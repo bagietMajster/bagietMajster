@@ -1,7 +1,7 @@
 ### Yo
-Im fullstack developer working in banking industry.
-Focused on creating apps with .NET and Angular.
-Business mail: kamil.lenart@op.pl
+Im fullstack developer working in banking industry.  
+Focused on creating apps with .NET and Angular.  
+Business mail: kamil.lenart@op.pl  
 
 <!--
 **bagietMajster/bagietMajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
